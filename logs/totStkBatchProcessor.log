@@ -1,0 +1,5 @@
+2024-09-27T14:08:21.543+08:00  INFO 149742 --- [TotStkBatchProcessor] [main] n.h.t.TotStkBatchProcessorApplication    : Starting TotStkBatchProcessorApplication using Java 17.0.11 with PID 149742 (/home/hilmi/Projects/personal/TotStkBatchProcessor/target/classes started by hilmi in /home/hilmi/Projects/personal/TotStkBatchProcessor)
+2024-09-27T14:08:21.545+08:00  INFO 149742 --- [TotStkBatchProcessor] [main] n.h.t.TotStkBatchProcessorApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-09-27T14:08:23.790+08:00  INFO 149742 --- [TotStkBatchProcessor] [main] n.h.t.TotStkBatchProcessorApplication    : Started TotStkBatchProcessorApplication in 2.804 seconds (process running for 3.637)
+2024-09-27T14:08:23.918+08:00 ERROR 149742 --- [TotStkBatchProcessor] [main] n.h.t.processor.RecordValidator          : Invalid header checksum: present=004894, calculated=004893
+2024-09-27T14:08:23.919+08:00 ERROR 149742 --- [TotStkBatchProcessor] [main] n.h.t.processor.TotStkProcessor          : Header record violated record validation
